@@ -1,5 +1,5 @@
 const CONFIG = {
-  whatsapp: "5562999999999", // coloque aqui o número real, com DDI + DDD
+  whatsapp: "5562996966304", // coloque aqui o número real, com DDI + DDD
   message: "Eu vou para o Pós-Encontro! 🔥 Nos vemos quinta às 20h!",
   friendMessage: "Bora para o Pós-Encontro quinta? 🔥 20h na Comunidade Nossa Senhora Aparecida. Você vem comigo?"
 };
